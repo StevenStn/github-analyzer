@@ -6,6 +6,7 @@ repositories and serves it to a website, while minimizing API
 usage and ensuring scalability to 10 000+ repositories.
 
 ---
+<img width="1096" height="1079" alt="Capture d&#39;écran 2026-03-18 234335" src="https://github.com/user-attachments/assets/40457afd-e762-4641-ae19-a1006062327c" />
 
 ## Core Components
 
